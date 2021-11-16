@@ -1,0 +1,5 @@
+title:Bane of Belial's Wishlist
+description:A collection of weapons that I want, or maybe just enjoy using.
+
+dimwishlist:item=1645386487&perks=839105230,1087426260,3300816228,1771339417,384158423#notes:DPS king
+dimwishlist:item=3075224551&perks=1467527085,1687452232,247725512,4104185692#notes:DPS king
