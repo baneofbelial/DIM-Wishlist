@@ -84,3 +84,11 @@ dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110#notes: Bane's
 
 //The Messenger
 dimwishlist:item=3658188704&perks=1885400500,247725512,3047969693#notes: Bane's WL - PvP god roll. Stability MW preferred
+
+//Ignition Code
+dimwishlist:item=304659313&perks=3032599245,2010801679,4104185692#notes: Bane's WL - Blinding GL for GM nightfalls. Frenzy is more for the reload and handling than the damage.
+dimwishlist:item=304659313&perks=3032599245,3436462433,4104185692#notes: Bane's WL - Blinding GL for GM nightfalls. Frenzy is more for the reload and handling than the damage. Surplus may be overkill.
+dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,1546637391#notes: Bane's WL - Boss DPS. Frenzy would be good too. Velocity MW recommended
+dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,4104185692#notes: Bane's WL - Boss DPS. Vorpal would be good too. Velocity MW recommended
+dimwishlist:item=304659313&perks=2010801679,4104185692#notes: Bane's WL - General use choice
+
