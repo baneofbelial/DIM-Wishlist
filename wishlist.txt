@@ -7,8 +7,14 @@ dimwishlist:item=1645386487&perks=839105230,1087426260,3300816228,1771339417,384
 //Threaded Needle
 dimwishlist:item=3075224551&perks=1687452232,2869569095,4104185692#notes: Bane's WL -DPS king
 
+//Hero of Ages
+dimwishlist:item=2139640995&perks=3666208348,269888150,2590710093,2396489472#notes: Bane's WL - ad clearing machine. Everything you kill explodes. Unrelenting would be good for survivability too.
+
 //Comedian Adept
 dimwishlist:item=2443900757&perks=1332244541,791862061,1820235745,11612903#notes: Bane's WL - This thing will shred ads if you can proc adrenaline junkie. 
+
+//Matador 64
+dimwishlist:item=2563012876&perks=3142289711,4071163871,47981717#notes: Bane's WL - PvP god roll.
 
 //Hung Jury Adept
 dimwishlist:item=681067419&perks=1467527085,3142289711,588594999,2551157718#notes: Bane's WL - PvP god roll. Box breathing can be clutch when used correctly.
@@ -48,6 +54,14 @@ dimwishlist:item=3924212056&perks=202670084,3142289711,2946784966,1015611457#not
 //True Prophecy
 dimwishlist:item=2742838700&perks=3142289711,2846385770,3038247973#notes: Bane's WL - PvP choice.
 
+//Eyasluna
+dimwishlist:item=235827225&perks=1885400500,2846385770,1015611457#notes: Bane's WL - PvP god roll. Range MW preferred
+dimwishlist:item=235827225&perks=1885400500,2846385770,588594999#notes: Bane's WL - great PvP roll. Range MW preferred
+dimwishlist:item=235827225&perks=247725512,124408337#notes: Bane's WL - PvE choice. Any mag perk besides extended would be good in column 2. Maybe a reload or stability MW.
+
+//Retraced Path
+dimwishlist:item=548958835&perks=1820235745,4049631843#notes: Bane's WL - Great PvE roll. Subsistence is by far the best col 3 perk. Golden Tricorn, Frenzy, and Harmony are all good in col 4. Extra stability would help get consistent crits at long range. 
+
 //Imperial Needle
 dimwishlist:item=3460122497&perks=4067834857,3429800428,201365942,4104185692,1639384016#notes: Bane's WL - Great bow to have for nightfalls. May struggle at long range (low accuracy), but makes up for it in firing rate.
 
@@ -79,11 +93,17 @@ dimwishlist:item=3326850591&perks=1087426260,2284787283,1771339417#notes: Bane's
 //Tranquility
 dimwishlist:item=1645386487&perks=1087426260,3300816228,1771339417#notes: Bane's WL - Decent for DPS
 
-//Love and Death
-dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110#notes: Bane's WL - You want max velocity on here. Hard Launch and Velocity MW are the cherry on top.
+//1000 Yard Stare
+dimwishlist:item=4164201232&perks=3142289711,706527188,957782887#notes: Bane's WL - PvP god roll. Without question, the best pvp sniper in the game.
 
 //The Messenger
 dimwishlist:item=3658188704&perks=1885400500,247725512,3047969693#notes: Bane's WL - PvP god roll. Stability MW preferred
+
+//Battle Rifle
+dimwishlist:item=2708806099&perks=839105230,3142289711,957782887,1015611457#notes: Bane's WL - PvP god roll. If you don't get arrowhead brake, make sure you equip a counterbalance mod.
+
+//Pardon Our Dust
+dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,960810156#notes: Bane's WL - Blinding GL for GM nightfalls. Add a quick access sling mod for the fast hot swapping. ALH is required, but col 4 is kinda arbitrary.
 
 //Ignition Code
 dimwishlist:item=304659313&perks=3032599245,2010801679,4104185692#notes: Bane's WL - Blinding GL for GM nightfalls. Frenzy is more for the reload and handling than the damage.
@@ -92,3 +112,5 @@ dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,1546637391#note
 dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,4104185692#notes: Bane's WL - Boss DPS. Vorpal would be good too. Velocity MW recommended
 dimwishlist:item=304659313&perks=2010801679,4104185692#notes: Bane's WL - General use choice
 
+//Love and Death
+dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110#notes: Bane's WL - You want max velocity on here. Hard Launch and Velocity MW are the cherry on top.
