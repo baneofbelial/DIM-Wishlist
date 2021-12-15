@@ -28,6 +28,9 @@ dimwishlist:item=577528837&perks=1820235745,4104185692#notes: Bane's WL - PvE pr
 //Royal Chase
 dimwishlist:item=2776503072&perks=839105230,106909392,2866798147,2848615171#notes: Bane's WL - PvE preferred roll. Only void scout in the game right now, except for Vouchsafe (hard to get).
 
+//Cold Front
+dimwishlist:item=1506719573&perks=106909392,1820235745,3425386926#notes: Bane's WL - PvE preferred roll.
+
 //Fatebringer Timelost
 dimwishlist:item=1216319404&perks=3418782618,3824105627#notes: Bane's WL - This is the roll I have, and it is a lot of fun. Go for reload speed perks/MWs.
 dimwishlist:item=1216319404&perks=3250034553,3142289711,2946784966,1015611457#notes: Bane's WL - PvP god roll.
@@ -71,6 +74,13 @@ dimwishlist:item=507038823&perks=3250034553,2621346526,4049631843,2697220197#not
 
 //SPECIAL WEAPONS
 
+//Cartesian Coordinate
+dimwishlist:item=2481881293&perks=2405638014,1687452232,2779035018,1546637391,3128594062#notes: Bane's WL - KEEP THIS FOREVER. DPS KING
+
+//Glacioclasm
+dimwishlist:item=1030895163&perks=1687452232,1820235745,1427256713#notes: Bane's WL - Liquid Coils is a no brainer. This beast has a max charge time, so liquid coils doesn't even increase it. With Subsistence, you will almost always be at full ammo to utilize reservoir burst. Slideshot works in col 3 as well. Stability or range MW preferred.
+dimwishlist:item=1030895163&perks=1687452232,1645158859,2213355989#notes: Bane's WL - Liquid Coils is a no brainer. This beast has a max charge time, so liquid coils doesn't even increase it. In PvP, you will almost always be low on ammo, so HIR is great. Voop on Guardian.
+
 
 //Uzume Adept
 dimwishlist:item=852228780&perks=2420895100,3400784728,1546637391,758092021#notes: Bane's WL - A magazine perk is a must on your triple tap / vorpal sniper. Extended mag is worse, because it reduces reload speed and doesn't give an advantage over appended mag. It brings the mag up to 5, which allows you to get 2 free bullets from TT instead of just 1.
@@ -100,13 +110,6 @@ dimwishlist:item=304659313&perks=2010801679,4104185692#notes: Bane's WL - Genera
 
 //Pardon Our Dust
 dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,960810156#notes: Bane's WL - Blinding GL for GM nightfalls. Add a quick access sling mod for the fast hot swapping. ALH is required, but col 4 is kinda arbitrary.
-
-//Cartesian Coordinate
-dimwishlist:item=2481881293&perks=2405638014,1687452232,2779035018,1546637391,3128594062#notes: Bane's WL - KEEP THIS FOREVER. DPS KING
-
-//Glacioclasm
-dimwishlist:item=1030895163&perks=1687452232,1820235745,1427256713#notes: Bane's WL - Liquid Coils is a no brainer. This beast has a max charge time, so liquid coils doesn't even increase it. With Subsistence, you will almost always be at full ammo to utilize reservoir burst. Slideshot works in col 3 as well. Stability or range MW preferred.
-dimwishlist:item=1030895163&perks=1687452232,1645158859,2213355989#notes: Bane's WL - Liquid Coils is a no brainer. This beast has a max charge time, so liquid coils doesn't even increase it. In PvP, you will almost always be low on ammo, so HIR is great. Voop on Guardian.
 
 //Comedian Adept
 dimwishlist:item=2443900757&perks=1332244541,791862061,1820235745,11612903#notes: Bane's WL - This thing will shred ads if you can proc adrenaline junkie.
